@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ShopEasy - E-Commerce Application
 
 A complete, production-style full-stack MERN e-commerce application built as an internship project / portfolio showcase.
@@ -76,3 +77,6 @@ Open your browser and navigate to `http://localhost:3000`.
 - **Vanilla CSS:** I used modern Vanilla CSS with CSS variables (design tokens) for maximum flexibility and to demonstrate an understanding of core CSS concepts without relying on frameworks like Tailwind or Bootstrap.
 - **Context API vs Redux:** Opted for the React Context API (`AuthContext`, `CartContext`) to keep state management lightweight, beginner-friendly, and to avoid boilerplate.
 - **HTTP-Only Cookies:** Used HTTP-only cookies for JWT storage instead of Local Storage to enhance security against XSS attacks.
+=======
+# CodeAlpha_ShopEasy_e-commerce
+>>>>>>> ebb30d7a58d68b5d25e348908a16197c032fd27d
